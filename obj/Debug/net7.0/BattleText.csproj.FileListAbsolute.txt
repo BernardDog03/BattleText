@@ -1,0 +1,15 @@
+D:\Data rafif\dotnet\BattleText\BattleText\bin\Debug\net7.0\BattleText.exe
+D:\Data rafif\dotnet\BattleText\BattleText\bin\Debug\net7.0\BattleText.deps.json
+D:\Data rafif\dotnet\BattleText\BattleText\bin\Debug\net7.0\BattleText.runtimeconfig.json
+D:\Data rafif\dotnet\BattleText\BattleText\bin\Debug\net7.0\BattleText.dll
+D:\Data rafif\dotnet\BattleText\BattleText\bin\Debug\net7.0\BattleText.pdb
+D:\Data rafif\dotnet\BattleText\BattleText\obj\Debug\net7.0\BattleText.csproj.AssemblyReference.cache
+D:\Data rafif\dotnet\BattleText\BattleText\obj\Debug\net7.0\BattleText.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data rafif\dotnet\BattleText\BattleText\obj\Debug\net7.0\BattleText.AssemblyInfoInputs.cache
+D:\Data rafif\dotnet\BattleText\BattleText\obj\Debug\net7.0\BattleText.AssemblyInfo.cs
+D:\Data rafif\dotnet\BattleText\BattleText\obj\Debug\net7.0\BattleText.csproj.CoreCompileInputs.cache
+D:\Data rafif\dotnet\BattleText\BattleText\obj\Debug\net7.0\BattleText.dll
+D:\Data rafif\dotnet\BattleText\BattleText\obj\Debug\net7.0\refint\BattleText.dll
+D:\Data rafif\dotnet\BattleText\BattleText\obj\Debug\net7.0\BattleText.pdb
+D:\Data rafif\dotnet\BattleText\BattleText\obj\Debug\net7.0\BattleText.genruntimeconfig.cache
+D:\Data rafif\dotnet\BattleText\BattleText\obj\Debug\net7.0\ref\BattleText.dll
